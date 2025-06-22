@@ -1,5 +1,4 @@
 # Analog-Clock-html-css-js
-# Analog Clock ⏰
 
 This is a real-time analog clock made using **HTML, CSS, and JavaScript** — no extra libraries used.
 
