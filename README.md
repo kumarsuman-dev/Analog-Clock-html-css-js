@@ -15,4 +15,4 @@ This is a real-time analog clock made using **HTML, CSS, and JavaScript** — no
 - **CSS** is used for styling and smooth animation.
 - **JavaScript** updates the hands every second based on your system's current time.
 
-## Website Link: (https://kumarsuman-dev.github.io/Analog-Clock-html-css-js)
+## Website Link: [Analog Clock](https://kumarsuman-dev.github.io/Analog-Clock-html-css-js)
